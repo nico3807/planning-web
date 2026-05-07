@@ -1,0 +1,2255 @@
+{
+  "Septembre 2025": [
+    {
+      "day": 1,
+      "weekday": "Lu",
+      "events": {
+        "MMI3-App": "examen souteannces"
+      },
+      "week": 36
+    },
+    {
+      "day": 2,
+      "weekday": "Ma",
+      "events": {
+        "MMI1": "Rentrée"
+      }
+    },
+    {
+      "day": 3,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Lu",
+      "events": {},
+      "week": 37
+    },
+    {
+      "day": 9,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-App": "Entreprise S01"
+      },
+      "week": 38
+    },
+    {
+      "day": 16,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Lu",
+      "events": {
+        "MMI3-crea": "SAE 5C.01 R.ESCURIOLADOCU-FICTION",
+        "MMI3-Dev": "SAE 5D.01  Dev Avancé (D. Marill / B. Darties)",
+        "MMI3-App": "Entreprise S01"
+      },
+      "week": 39
+    },
+    {
+      "day": 23,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Je",
+      "events": {
+        "MMI1": "Journée Bienvenue 2025"
+      }
+    },
+    {
+      "day": 26,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "SAE 301  part 1  (B. Darties/N. Maurin)",
+        "MMI2-App": "Entreprise S02"
+      }
+    },
+    {
+      "day": 30,
+      "weekday": "Ma",
+      "events": {},
+      "week": 40
+    }
+  ],
+  "Octobre 2025": [
+    {
+      "day": 1,
+      "weekday": "Me",
+      "events": {
+        "MMI2-crea": "SAE 301  part 1  (B. Darties/N. Maurin)",
+        "MMI2-App": "Entreprise S08"
+      }
+    },
+    {
+      "day": 2,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 1.01 Audit Comm. Numérique  (C. Pellissier)",
+        "MMI3-crea": "SAE 5C.01  Stop Motion (C. Surribas)",
+        "MMI3-Dev": "SAE 5D.01  Dev Avancé (D. Marill / B. Darties)",
+        "MMI3-App": "Entreprise S02"
+      },
+      "week": 41
+    },
+    {
+      "day": 7,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "Semaine  SAE 301  part 2  (B. Darties/N. Maurin)",
+        "MMI2-App": "Entreprise S03"
+      },
+      "week": 42
+    },
+    {
+      "day": 14,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 1.04 (S. Blanco) 1/2",
+        "MMI3-crea": "SAE 5C.01 R.ESCURIOLA Docu Fiction",
+        "MMI3-Dev": "SAE 5D.01  Dev Avancé (D. Marill / B. Darties)",
+        "MMI3-App": "Entreprise S03"
+      },
+      "week": 43
+    },
+    {
+      "day": 21,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "Entreprise S04",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "Entreprise S04"
+      },
+      "week": 44
+    },
+    {
+      "day": 28,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 31,
+      "weekday": "Ve",
+      "events": {}
+    }
+  ],
+  "Novembre 2025": [
+    {
+      "day": 1,
+      "weekday": "Sa",
+      "events": {
+        "MMI1": "Tousaint"
+      }
+    },
+    {
+      "day": 2,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 1.04 (S. Blanco) 2/2"
+      },
+      "week": 45
+    },
+    {
+      "day": 4,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Lu",
+      "events": {
+        "MMI3-crea": "SAE 5C.01 Comm 360 (A. Petit)",
+        "MMI3-Dev": "SAE 5D.03 Dispo Interactif (S. Besga 1/3)",
+        "MMI3-App": "Entreprise S05"
+      },
+      "week": 46
+    },
+    {
+      "day": 11,
+      "weekday": "Ma",
+      "events": {
+        "MMI1": "Armistice 1918"
+      }
+    },
+    {
+      "day": 12,
+      "weekday": "Me",
+      "events": {
+        "MMI3-crea": "SAE 5C.01 Comm 360 (A. Petit)",
+        "MMI3-Dev": "SAE 5D.03 Dispo Interactif (S. Besga 1/3)",
+        "MMI3-App": "Entreprise S05"
+      }
+    },
+    {
+      "day": 13,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "SAE 3.02 part 1 (C. Surribas)",
+        "MMI2-App": "Entreprise S05"
+      },
+      "week": 47
+    },
+    {
+      "day": 18,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 1.02 recomm Numerique (C. Rampon)",
+        "MMI3-crea": "SAE 5D.02 Management (M. Piedevache)",
+        "MMI3-Dev": "SAE 5D.02 Management (M. Piedevache)",
+        "MMI3-App": "Entreprise S06"
+      },
+      "week": 48
+    },
+    {
+      "day": 25,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "Di",
+      "events": {}
+    }
+  ],
+  "Décembre 2025": [
+    {
+      "day": 1,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "SAE 3.02 part 2 (S. Blanco)",
+        "MMI2-App": "Entreprise S06"
+      },
+      "week": 49
+    },
+    {
+      "day": 2,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Lu",
+      "events": {
+        "MMI3-crea": "SAE 5C.01 L.CALOMINA FX/AFTER EFFECT",
+        "MMI3-Dev": "SAE 5D.03 S. Besga  (2/3)",
+        "MMI3-App": "Entreprise S07"
+      },
+      "week": 50
+    },
+    {
+      "day": 9,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 1.05 Site Web (B. Darties)"
+      },
+      "week": 51
+    },
+    {
+      "day": 16,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "Entreprise S07",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S08"
+      },
+      "week": 52
+    },
+    {
+      "day": 23,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Je",
+      "events": {
+        "MMI1": "Noel"
+      }
+    },
+    {
+      "day": 26,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "Entreprise S08",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S09"
+      },
+      "week": 1
+    },
+    {
+      "day": 30,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 31,
+      "weekday": "Me",
+      "events": {}
+    }
+  ],
+  "Janvier 2026": [
+    {
+      "day": 1,
+      "weekday": "Je",
+      "events": {
+        "MMI1": "Jour de l'an"
+      }
+    },
+    {
+      "day": 2,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 103 - Comm Visuelle (V. SELIGHINI)"
+      },
+      "week": 2
+    },
+    {
+      "day": 6,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "SAE 3.03  (C. Surribas & A. Lagiewka)",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "SAE 5C.01 Figma  (A. lagiewka)",
+        "MMI3-Dev": "SAE 5D.03 S. Besga  (3/3)",
+        "MMI3-App": "Entreprise S10"
+      },
+      "week": 3
+    },
+    {
+      "day": 13,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 1.06 comm numerique (L. Tournie)"
+      },
+      "week": 4
+    },
+    {
+      "day": 20,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Ve",
+      "events": {
+        "MMI3-crea": "Code Game Jam?? (jeudi aprem -> samedi)"
+      }
+    },
+    {
+      "day": 24,
+      "weekday": "Sa",
+      "events": {
+        "MMI1": "Fin S1 - S3 / début S2 - S4"
+      }
+    },
+    {
+      "day": 25,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "Marathon MMI"
+      },
+      "week": 5
+    },
+    {
+      "day": 27,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 31,
+      "weekday": "Sa",
+      "events": {}
+    }
+  ],
+  "Février 2026": [
+    {
+      "day": 1,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 2,
+      "weekday": "Lu",
+      "events": {
+        "MMI3-crea": "stage S01",
+        "MMI3-App": "Entreprise S11",
+        "MMI3-Dev": "stage S01"
+      },
+      "week": 6
+    },
+    {
+      "day": 3,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "SAE Langues (M. Baron / W. Bernard / S. Blanco)",
+        "MMI2-Dev": "SAE 4D.01 Developpement Web avancé (B. Darties)",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "stage S02",
+        "MMI3-App": "Entreprise S12",
+        "MMI3-Dev": "stage S02"
+      },
+      "week": 7
+    },
+    {
+      "day": 10,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 2.4 constuire sa présence en ligne / part 1 (B. Darties)",
+        "MMI3-crea": "stage S03",
+        "MMI3-App": "Entreprise S13",
+        "MMI3-Dev": "stage S03"
+      },
+      "week": 8
+    },
+    {
+      "day": 17,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Lu",
+      "events": {
+        "MMI3-crea": "stage S04",
+        "MMI3-App": "entreprise S14",
+        "MMI3-Dev": "stage S04"
+      },
+      "week": 9
+    },
+    {
+      "day": 24,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Sa",
+      "events": {}
+    }
+  ],
+  "Mars 2026": [
+    {
+      "day": 1,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 2,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "stage S05",
+        "MMI3-App": "Entreprise S15",
+        "MMI3-Dev": "stage S05"
+      },
+      "week": 10
+    },
+    {
+      "day": 3,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "SAE 4C.01 crééer une campagne de comm (V.Selighini+S.Blanco)",
+        "MMI3-crea": "stage S06",
+        "MMI3-App": "Entreprise S16",
+        "MMI3-Dev": "stage S06"
+      },
+      "week": 11
+    },
+    {
+      "day": 10,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "stage S07",
+        "MMI3-App": "Entreprise S17",
+        "MMI3-Dev": "stage S07"
+      },
+      "week": 12
+    },
+    {
+      "day": 17,
+      "weekday": "Ma",
+      "events": {
+        "MMI1": "Hackathon (?)"
+      }
+    },
+    {
+      "day": 18,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 2.02 Game Jam MMI Semaine 1 (C. Surribas / B. Darties)",
+        "MMI3-crea": "stage S08",
+        "MMI3-App": "Entreprise S17",
+        "MMI3-Dev": "stage S08"
+      },
+      "week": 13
+    },
+    {
+      "day": 24,
+      "weekday": "Ma",
+      "events": {
+        "MMI1": "202"
+      }
+    },
+    {
+      "day": 25,
+      "weekday": "Me",
+      "events": {
+        "MMI1": "(copier coller an dernier, a modifier / replanifier)"
+      }
+    },
+    {
+      "day": 26,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-Dev": "SAE 4D.02 Dispositifs Intéractifs (N. Maurin / D. Marill)",
+        "MMI3-crea": "stage S09",
+        "MMI3-App": "Entreprise S17",
+        "MMI3-Dev": "stage S09"
+      },
+      "week": 14
+    },
+    {
+      "day": 31,
+      "weekday": "Ma",
+      "events": {
+        "MMI2-crea": "SAE 4C.02 produire du contenu multimedia (A. LAGIEWKA)"
+      }
+    }
+  ],
+  "Avril 2026": [
+    {
+      "day": 1,
+      "weekday": "Me",
+      "events": {
+        "MMI2-crea": "SAE Langues (M. Baron / W. Bernard / S. Blanco)",
+        "MMI2-Dev": "SAE 4D.02 Dispositifs Intéractifs (N. Maurin / D. Marill)",
+        "MMI3-crea": "stage S09",
+        "MMI3-Dev": "stage S09"
+      }
+    },
+    {
+      "day": 2,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "Paques"
+      },
+      "week": 15
+    },
+    {
+      "day": 7,
+      "weekday": "Ma",
+      "events": {
+        "MMI2-crea": "stage S01",
+        "MMI3-crea": "stage S10",
+        "MMI2-Dev": "stage S01",
+        "MMI3-Dev": "stage S10"
+      }
+    },
+    {
+      "day": 8,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Je",
+      "events": {
+        "MMI1": "forum de l'apprentisage"
+      }
+    },
+    {
+      "day": 10,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "stage S02",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "stage S11",
+        "MMI3-App": "Entreprise S21",
+        "MMI2-Dev": "stage S02",
+        "MMI3-Dev": "stage S11"
+      },
+      "week": 16
+    },
+    {
+      "day": 14,
+      "weekday": "Ma",
+      "events": {
+        "MMI1": "202"
+      }
+    },
+    {
+      "day": 15,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "stage S03",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "stage S12",
+        "MMI3-App": "entreprise S22",
+        "MMI2-Dev": "stage S03",
+        "MMI3-Dev": "stage S12"
+      },
+      "week": 17
+    },
+    {
+      "day": 21,
+      "weekday": "Ma",
+      "events": {
+        "MMI3-App": "entreprise S22"
+      }
+    },
+    {
+      "day": 22,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "stage S04",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S23",
+        "MMI2-Dev": "stage S04"
+      },
+      "week": 18
+    },
+    {
+      "day": 28,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "jeu",
+      "events": {}
+    }
+  ],
+  "Mai 2026": [
+    {
+      "day": 1,
+      "weekday": "Ve",
+      "events": {
+        "MMI1": "Fete du travail"
+      }
+    },
+    {
+      "day": 2,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "stage S05",
+        "MMI2-App": "Entreprise S11",
+        "MMI2-Dev": "stage S05"
+      },
+      "week": 19
+    },
+    {
+      "day": 5,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Ve",
+      "events": {
+        "MMI1": "Victoire 8 mai"
+      }
+    },
+    {
+      "day": 9,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-crea": "stage S06",
+        "MMI2-App": "Entreprise S11",
+        "MMI2-Dev": "stage S06"
+      },
+      "week": 20
+    },
+    {
+      "day": 12,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Je",
+      "events": {
+        "MMI1": "ascension"
+      }
+    },
+    {
+      "day": 15,
+      "weekday": "Ve",
+      "events": {
+        "MMI1": "journée d'appui",
+        "MMI3-crea": "journée d'appui"
+      }
+    },
+    {
+      "day": 16,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 2.01 S. De Velder",
+        "MMI2-crea": "stage S07",
+        "MMI2-App": "Entreprise S11",
+        "MMI3-App": "Entreprise S24",
+        "MMI2-Dev": "stage S07"
+      },
+      "week": 21
+    },
+    {
+      "day": 19,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "Lundi de pentecote"
+      }
+    },
+    {
+      "day": 26,
+      "weekday": "Ma",
+      "events": {
+        "MMI2-crea": "stage S08",
+        "MMI2-App": "Entreprise",
+        "MMI3-crea": "Soutenances stages MMI3",
+        "MMI3-App": "Entreprise",
+        "MMI2-Dev": "stage S08",
+        "MMI3-Dev": "Soutenances stages MMI3"
+      }
+    },
+    {
+      "day": 27,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Ve",
+      "events": {
+        "MMI1": "journée d'appui",
+        "MMI3-crea": "Soutenances stages MMI3",
+        "MMI3-Dev": "Soutenances stages MMI3"
+      }
+    },
+    {
+      "day": 30,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 31,
+      "weekday": "Di",
+      "events": {}
+    }
+  ],
+  "Juin 2026": [
+    {
+      "day": 1,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 2.4 constuire sa présence en ligne / part 2",
+        "MMI2-crea": "stage S09",
+        "MMI2-App": "Entreprise S17",
+        "MMI2-Dev": "stage S09"
+      },
+      "week": 23
+    },
+    {
+      "day": 2,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "Pentecote"
+      },
+      "week": 24
+    },
+    {
+      "day": 9,
+      "weekday": "Ma",
+      "events": {
+        "MMI2-crea": "stage S10",
+        "MMI2-App": "Entreprise S26",
+        "MMI3-App": "Entreprise S26",
+        "MMI2-Dev": "stage S10"
+      }
+    },
+    {
+      "day": 10,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "SAE 2.03 Dev Web (DARTIES / TALLEUX)",
+        "MMI2-crea": "stage S11",
+        "MMI2-App": "entreprise S26",
+        "MMI3-crea": "Semaine UE TEDS",
+        "MMI2-Dev": "stage S11"
+      },
+      "week": 25
+    },
+    {
+      "day": 16,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Je",
+      "events": {
+        "MMI3-App": "soutenance portfolio"
+      }
+    },
+    {
+      "day": 19,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "soutenances portfolio MMI1",
+        "MMI2-App": "rattrapages /+ préparation rapport d'alternance",
+        "MMI3-App": "Entreprise S27"
+      },
+      "week": 26
+    },
+    {
+      "day": 23,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Me",
+      "events": {
+        "MMI2-App": "portfolio MMI2"
+      }
+    },
+    {
+      "day": 25,
+      "weekday": "Je",
+      "events": {
+        "MMI2-crea": "Soutenances stages",
+        "MMI2-App": "rattrapages /+ préparation rapport d'alternance",
+        "MMI2-Dev": "Soutenances stages"
+      }
+    },
+    {
+      "day": 26,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 28,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Lu",
+      "events": {
+        "MMI2-App": "Entreprise S27",
+        "MMI3-crea": "Soutenances Portfolio MMI3",
+        "MMI3-App": "Entreprise S28"
+      },
+      "week": 27
+    },
+    {
+      "day": 30,
+      "weekday": "ma",
+      "events": {
+        "MMI2-crea": "Soutenances Portfolio MMI2",
+        "MMI2-Dev": "Soutenances Portfolio MMI2"
+      }
+    }
+  ],
+  "Juillet 2026": [
+    {
+      "day": 1,
+      "weekday": "Me",
+      "events": {
+        "MMI2-crea": "Soutenances Portfolio MMI2",
+        "MMI2-App": "Entreprise S27",
+        "MMI3-App": "Entreprise S28",
+        "MMI2-Dev": "Soutenances Portfolio MMI2"
+      }
+    },
+    {
+      "day": 2,
+      "weekday": "Je",
+      "events": {
+        "MMI1": "Conseil pédagogique S2, S4, S6",
+        "MMI3-crea": "Conseil pédagogique S2, S4, S6"
+      }
+    },
+    {
+      "day": 3,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 4,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "Grand Jury",
+        "MMI2-App": "entreprise S28",
+        "MMI3-App": "entreprise S29"
+      },
+      "week": 28
+    },
+    {
+      "day": 7,
+      "weekday": "Ma",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances"
+      }
+    },
+    {
+      "day": 8,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 11,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S29",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S30"
+      },
+      "week": 29
+    },
+    {
+      "day": 14,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 18,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S30",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S31"
+      },
+      "week": 30
+    },
+    {
+      "day": 21,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 25,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S31",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S32"
+      },
+      "week": 31
+    },
+    {
+      "day": 28,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 29,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 31,
+      "weekday": "ve",
+      "events": {}
+    }
+  ],
+  "Août 2026": [
+    {
+      "day": 1,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 2,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 3,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S29",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S33"
+      },
+      "week": 32
+    },
+    {
+      "day": 4,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 5,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 6,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 7,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 8,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 9,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 10,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S30",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S34"
+      },
+      "week": 33
+    },
+    {
+      "day": 11,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 12,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 13,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 14,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 15,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 16,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 17,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S31",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances",
+        "MMI3-App": "entreprise S35"
+      },
+      "week": 34
+    },
+    {
+      "day": 18,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 19,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 20,
+      "weekday": "Je",
+      "events": {}
+    },
+    {
+      "day": 21,
+      "weekday": "Ve",
+      "events": {}
+    },
+    {
+      "day": 22,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 23,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 24,
+      "weekday": "Lu",
+      "events": {
+        "MMI1": "vacances",
+        "MMI2-crea": "vacances",
+        "MMI2-Dev": "vacances",
+        "MMI2-App": "entreprise S32",
+        "MMI3-crea": "vacances",
+        "MMI3-Dev": "vacances"
+      },
+      "week": 35
+    },
+    {
+      "day": 25,
+      "weekday": "Ma",
+      "events": {}
+    },
+    {
+      "day": 26,
+      "weekday": "Me",
+      "events": {}
+    },
+    {
+      "day": 27,
+      "weekday": "Je",
+      "events": {
+        "MMI2-App": "soutenances",
+        "MMI3-App": "soutenances"
+      }
+    },
+    {
+      "day": 28,
+      "weekday": "Ve",
+      "events": {
+        "MMI3-App": "soutenances"
+      }
+    },
+    {
+      "day": 29,
+      "weekday": "Sa",
+      "events": {}
+    },
+    {
+      "day": 30,
+      "weekday": "Di",
+      "events": {}
+    },
+    {
+      "day": 31,
+      "weekday": "lu",
+      "events": {}
+    }
+  ]
+}
